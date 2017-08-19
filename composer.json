@@ -1,0 +1,37 @@
+{
+  "name": "sjpadgett/wkhtmltopdf-binaries",
+  "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary for 32 bit and 64 bit systems.",
+  "keywords": [
+    "pdf",
+    "thumbnail",
+    "snapshot",
+    "wkhtmltopdf",
+    "convert",
+    "binary",
+    "htmltopdf",
+    "htmltoimage"
+  ],
+  "license": "LGPL Version 3",
+  "homepage": "http://wkhtmltopdf.org/",
+  "authors": [
+    {
+      "name": "Jerry Padgett",
+      "email": "sjpadgett@gmail.com",
+      "homepage": ""
+    }
+  ],
+  "support": {
+    "issues": ""
+  },
+  "minimum-stability": "stable",
+  "bin": [
+    "bin/win/32bit/wkhtmltopdf.exe",
+    "bin/win/64bit/wkhtmltopdf.exe",
+	"bin/linux/32bit/wkhtmltopdf",
+	"bin/linux/64bit/wkhtmltopdf"
+  ],
+  "require": {
+  },
+  "suggest": {
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "sjpadgett/wkhtmltopdf-binaries",
+  "name": "openemr/wkhtmltopdf-binaries",
   "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary for 32 bit and 64 bit systems.",
   "keywords": [
     "pdf",
@@ -27,8 +27,8 @@
   "bin": [
     "bin/win/32bit/wkhtmltopdf.exe",
     "bin/win/64bit/wkhtmltopdf.exe",
-	"bin/linux/32bit/wkhtmltopdf",
-	"bin/linux/64bit/wkhtmltopdf"
+    "bin/linux/32bit/wkhtmltopdf",
+    "bin/linux/64bit/wkhtmltopdf"
   ],
   "require": {
   },

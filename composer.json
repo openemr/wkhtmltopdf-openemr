@@ -21,14 +21,6 @@
     "issues": "https://github.com/openemr/wkhtmltopdf-openemr/issues"
   },
   "minimum-stability": "stable",
-  "bin": [
-    "bin/linux/wkhtmltopdf32-linux",
-    "bin/linux/wkhtmltopdf64-linux",
-    "bin/osx/wkhtmltopdf32-osx",
-    "bin/osx/wkhtmltopdf64-osx",
-    "bin/win/wkhtmltopdf32.exe",
-    "bin/win/wkhtmltopdf64.exe"
-  ],
   "require": {
   },
   "suggest": {

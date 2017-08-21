@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Remember to move or add tag for release of any follow up commits to repository if commit is to be included in production.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is a composer repository to hold binaries for the PdfCreator class.
+* This repository version .1 wkhtmltopdf version 0.12.4 current release 0.12.4.1
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Add required "openemr/wkhtmltopdf-openemr" : "0.12.4.1"
+* Add this repository "type" : "vcs", "url" : "https://github.com/openemr/wkhtmltopdf-openemr"

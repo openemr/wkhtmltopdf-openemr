@@ -11,8 +11,6 @@ Remember to move or add tag for release of any follow up commits to repository i
 
 * Change into openemr's root directory. Installed composer is required.
 * Run:> composer require "openemr/wkhtmltopdf-openemr"
-* Application will attempt to set execute permission to binaries if User owner allows otherwise, set from command line. 0544 should work in most instances.
-* Following is one way: > sudo find vendor/openemr/wkhtmltopdf-openemr/bin -type f -exec chmod 544 {} \; 
 
 ### Compsoer.json Edit ###
 

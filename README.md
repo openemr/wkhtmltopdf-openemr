@@ -11,8 +11,3 @@ Remember to move or add tag for release of any follow up commits to repository i
 
 * Change into openemr's root directory. Installed composer is required.
 * Run:> composer require "openemr/wkhtmltopdf-openemr"
-
-### Compsoer.json Edit ###
-
-* Add required: "openemr/wkhtmltopdf-openemr" : "0.12.4.1"
-* Add this repository: "type" : "vcs", "url" : "https://github.com/openemr/wkhtmltopdf-openemr"
